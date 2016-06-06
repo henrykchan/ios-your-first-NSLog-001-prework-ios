@@ -12,6 +12,7 @@
      
      */
     
+    NSLog(@"Hello, World!");
     // do not alter
     return YES;  //
 }   ///////////////
